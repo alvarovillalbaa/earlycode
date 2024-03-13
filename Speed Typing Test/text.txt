@@ -1,0 +1,5 @@
+Hello world my name is Alvaro and I am the best at making Python projects!
+This is another test block of text for this project!
+Follow Me on Linkedin! https://www.linkedin.com/in/alvarovillalbaperez/.
+Okay this is just another test to make sure the app is working okay!
+The quick brown fox jumped over the rest of the sentence that I forgot.

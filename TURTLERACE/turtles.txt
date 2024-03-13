@@ -1,0 +1,6 @@
+red 0
+green 0
+blue 0
+grey 0
+yellow 0
+orange 0
